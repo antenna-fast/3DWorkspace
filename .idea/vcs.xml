@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3DWorkspace" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SLAM/ORB_SLAM" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SLAM/ORB_SLAM2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SLAM/PTAM-GPL" vcs="Git" />
