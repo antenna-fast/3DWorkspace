@@ -1,0 +1,3 @@
+[submodule "3DWorkspace"]
+	path = 3DWorkspace
+	url = git@github.com:antenna-fast/3DWorkspace.git
