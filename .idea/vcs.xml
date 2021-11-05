@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/SLAM/ORB_SLAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SLAM/ORB_SLAM2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SLAM/PTAM-GPL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SLAM/VINS-Fusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SLAM/VINS-Mono" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SfM-Toy-Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/colmap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/openMVS" vcs="Git" />
+  </component>
+</project>

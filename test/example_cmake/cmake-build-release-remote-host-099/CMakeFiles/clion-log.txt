@@ -1,0 +1,16 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /ssd/yhliu/3DWorkspace/example_cmake
+CMake Deprecation Warning at CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- OpenCV library status:
+--     version: 3.4.16
+--     libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_shape;opencv_stitching;opencv_superres;opencv_video;opencv_videoio;opencv_videostab
+--     include path: /usr/local/opencv3/include;/usr/local/opencv3/include/opencv
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /ssd/yhliu/3DWorkspace/example_cmake/cmake-build-release-remote-host-099

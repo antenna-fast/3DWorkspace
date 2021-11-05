@@ -1,0 +1,9 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /ssd/yhliu/3DWorkspace/test/cmake_test
+'Definedaddress..'
+addressisON
+'Definedaddress..'
+abcd
+abcd1234
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /ssd/yhliu/3DWorkspace/test/cmake_test/cmake-build-release-remote-host-099

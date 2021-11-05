@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Remote Host 099 (07bb2420-f558-446f-93b8-805678f1d867)" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Remote Host 099 (07bb2420-f558-446f-93b8-805678f1d867)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ssd/yhliu/3DWorkspace" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/test/cpp/cmake-build-debug-remote-host-099" />
+            <excludedPath local="true" path="$PROJECT_DIR$/test/cpp/cmake-build-release-remote-host-099" />
+            <excludedPath local="true" path="$PROJECT_DIR$/SfM-Toy-Library/cmake-build-debug-remote-host-099" />
+            <excludedPath local="true" path="$PROJECT_DIR$/test/cmake_test/cmake-build-debug-remote-host-099" />
+            <excludedPath local="true" path="$PROJECT_DIR$/test/cmake_test/cmake-build-release-remote-host-099" />
+            <excludedPath local="true" path="$PROJECT_DIR$/SfM-Toy-Library/cmake-build-release-remote-host-099" />
+            <excludedPath local="true" path="$PROJECT_DIR$/colmap/cmake-build-release-remote-host-099" />
+            <excludedPath local="true" path="$PROJECT_DIR$/colmap/cmake-build-debug-remote-host-099" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="gpu099">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ssd/yhliu/3DWorkspace" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

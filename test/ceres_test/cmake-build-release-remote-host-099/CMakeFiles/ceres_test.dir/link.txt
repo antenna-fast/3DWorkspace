@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/ceres_test.dir/ceres_test.cpp.o -o ceres_test 

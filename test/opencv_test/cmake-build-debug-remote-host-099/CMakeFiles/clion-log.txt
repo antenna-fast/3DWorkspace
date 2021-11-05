@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /ssd/yhliu/3DWorkspace/test/opencv_test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /ssd/yhliu/3DWorkspace/test/opencv_test/cmake-build-debug-remote-host-099

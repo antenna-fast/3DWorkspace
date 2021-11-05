@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/ssd/yhliu/3DWorkspace/test/boost_test/boost_test.cpp
+iostream
+-
+boost/program_options.hpp
+-
+
